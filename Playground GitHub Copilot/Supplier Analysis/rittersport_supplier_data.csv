@@ -1,0 +1,31 @@
+SupplierID,SupplierName,Country,Region,Tier,Product,ChildLaborRisk,ForcedLaborRisk,WorkplaceSafetyRisk,FreedomOfAssociationRisk,DiscriminationRisk,WageRisk,LandRightsRisk,PollutionRisk,WaterUsageRisk,DeforestationRisk,OverallRiskScore,UmsatzvolumenEUR,LastAuditDate,MitigationMeasures,Status
+S001,Global Cacao Inc.,Côte d'Ivoire,Soubré,2,Kakaobohnen (Forastero),Hoch,Hoch,Hoch,Hoch,Mittel,Hoch,Hoch,Mittel,Hoch,Hoch,10,2500000,2025-02-20,Jährliches Audit; Schulungsprogramme,Unter Beobachtung
+S002,West Africa Beans Ltd.,Ghana,Ashanti,2,Kakaobohnen (Forastero),Hoch,Mittel,Hoch,Mittel,Mittel,Hoch,Mittel,Mittel,Mittel,Hoch,9,2800000,2024-10-15,Fairtrade-Zertifiziert; Regelmäßige Besuche,Aktiv
+S003,Andean Fine Cacao,Ecuador,Manabí,1,Kakaobohnen (Nacional),Mittel,Niedrig,Mittel,Niedrig,Niedrig,Mittel,Mittel,Mittel,Mittel,Mittel,6,1250000,2025-06-11,Bio-Zertifiziert; Direkter Handel,Aktiv
+S004,Brazil Sugar Cane Corp.,Brasilien,São Paulo,1,Rohrzucker,Mittel,Mittel,Hoch,Mittel,Niedrig,Mittel,Hoch,Hoch,Hoch,Mittel,8,1900000,2025-02-15,Bonsucro-Zertifizierung,Aktiv
+S005,European Dairy Group,Deutschland,Bayern,1,Milchpulver,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Mittel,Niedrig,2,2200000,2025-08-10,Lokaler Lieferant; QS-zertifiziert,Aktiv
+S006,Indo-Pacific Beans,Indonesien,Java,2,Kakaobohnen (Criollo),Hoch,Mittel,Hoch,Mittel,Mittel,Hoch,Mittel,Mittel,Mittel,Hoch,8,1100000,2024-09-25,Rainforest Alliance; Audit geplant,Unter Beobachtung
+S007,Aroma del Peru,Peru,San Martín,2,Kakaobohnen (Trinitario),Mittel,Niedrig,Mittel,Niedrig,Niedrig,Mittel,Mittel,Niedrig,Mittel,Mittel,5,1050000,2025-07-30,Direkter Handel; Schulungen,Aktiv
+S008,Nigeria Cocoa Exports,Nigeria,Ondo,2,Kakaobohnen (Forastero),Hoch,Hoch,Hoch,Hoch,Hoch,Hoch,Hoch,Mittel,Mittel,Hoch,10,2300000,2025-01-10,Risikobewertung abgeschlossen; Maßnahmenplan in Erstellung,Unter Beobachtung
+S009,Packaging Solutions Europe,Deutschland,Baden-Württemberg,1,Kartonagen,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,1,950000,2025-09-20,FSC-Zertifiziert; ISO 14001,Aktiv
+S010,Holland Dairy Co.,Niederlande,Friesland,1,Milchpulver,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Mittel,Mittel,Niedrig,3,1550000,2025-05-01,EU-Bio-Siegel,Aktiv
+S011,Colombian Select Beans,Kolumbien,Santander,2,Kakaobohnen (Trinitario),Mittel,Niedrig,Mittel,Niedrig,Niedrig,Mittel,Mittel,Mittel,Mittel,Mittel,5,950000,2024-12-10,UTZ-Zertifiziert,Aktiv
+S012,Cameroon Growers Union,Kamerun,Centre,2,Kakaobohnen (Forastero),Hoch,Hoch,Hoch,Mittel,Mittel,Hoch,Mittel,Mittel,Niedrig,Hoch,9,1900000,2025-07-01,Lieferantenkodex unterzeichnet,Aktiv
+S013,Alpine Milk Products,Schweiz,Bern,1,Kondensmilch,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,1,800000,2025-10-12,IP-Suisse zertifiziert,Aktiv
+S014,Siam Sugar Trading,Thailand,Nakhon Sawan,2,Rohrzucker,Mittel,Mittel,Mittel,Hoch,Mittel,Hoch,Mittel,Mittel,Hoch,Niedrig,7,1200000,2025-03-22,Audit geplant,Aktiv
+S015,Madagascar Spices Ltd.,Madagaskar,Sava,2,Vanilleschoten,Mittel,Mittel,Mittel,Mittel,Mittel,Hoch,Mittel,Niedrig,Niedrig,Mittel,7,550000,2025-08-25,Fair for Life Zertifizierung,Aktiv
+S016,Global Shipping Partners,Deutschland,Hamburg,1,Logistik (Seefracht),Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,N/A,Mittel,Niedrig,N/A,3,700000,2025-11-15,ISO 9001; Verhaltenskodex,Aktiv
+S017,Green Isle Creamery,Irland,Cork,1,Butterfett,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Mittel,Niedrig,2,900000,2025-07-15,Origin Green Programm,Aktiv
+S018,Italian Foil & Paper,Italien,Lombardei,1,Aluminiumfolie,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,N/A,Mittel,Mittel,N/A,4,500000,2025-04-14,ASI-Zertifizierung,Aktiv
+S019,Amazonas Soy Products,Brasilien,Mato Grosso,2,Sojalecithin,Mittel,Mittel,Mittel,Mittel,Mittel,Mittel,Hoch,Hoch,Hoch,Hoch,8,450000,2024-11-05,ProTerra-Zertifiziert,Unter Beobachtung
+S020,Zuckerrüben Union,Deutschland,Niedersachsen,1,Rübenzucker,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Mittel,Mittel,Niedrig,3,1850000,2025-09-10,SAI-Plattform (Gold),Aktiv
+S021,Carribean Organic Cacao,Dominikanische Republik,Duarte,2,Kakaobohnen (Bio),Niedrig,Niedrig,Mittel,Niedrig,Niedrig,Mittel,Niedrig,Niedrig,Mittel,Niedrig,4,880000,2025-05-28,Bio & Fairtrade,Aktiv
+S022,Anatolian Hazelnuts,Türkei,Ordu,2,Haselnüsse,Mittel,Mittel,Mittel,Mittel,Mittel,Mittel,Mittel,Niedrig,Mittel,Niedrig,6,1120000,2025-09-05,UTZ-zertifiziert; Schulungen,Aktiv
+S023,Ganges Sugar Mills,Indien,Uttar Pradesh,2,Rohrzucker,Hoch,Mittel,Hoch,Mittel,Mittel,Hoch,Mittel,Hoch,Hoch,Mittel,9,1580000,2025-03-13,Audit geplant,Unter Beobachtung
+S024,Logistics Europe BV,Niederlande,Rotterdam,1,Logistik (Land),Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,N/A,Mittel,Niedrig,N/A,3,680000,2025-06-20,Verhaltenskodex,Aktiv
+S025,Pacific Island Beans,Papua-Neuguinea,East New Britain,2,Kakaobohnen,Hoch,Mittel,Hoch,Mittel,Mittel,Hoch,Hoch,Mittel,Niedrig,Hoch,8,820000,2024-12-08,Rainforest Alliance,Aktiv
+S026,Industrial Machinery GmbH,Deutschland,NRW,1,Produktionsanlagen,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,N/A,Niedrig,Niedrig,N/A,1,480000,2025-10-20,ISO 9001,Aktiv
+S027,Mekong Delta Cacao,Vietnam,Đắk Lắk,2,Kakaobohnen,Mittel,Mittel,Mittel,Mittel,Niedrig,Mittel,Mittel,Mittel,Mittel,Mittel,6,930000,2025-02-28,UTZ-Zertifiziert,Aktiv
+S028,Aztec Origins Cacao,Mexiko,Chiapas,2,Kakaobohnen (Criollo),Mittel,Niedrig,Mittel,Niedrig,Niedrig,Mittel,Mittel,Niedrig,Mittel,Mittel,5,890000,2025-07-24,Bio-Zertifiziert,Aktiv
+S029,Austrian Packaging Inc.,Österreich,Oberösterreich,1,Verpackungsfolien,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,Niedrig,N/A,Niedrig,Niedrig,N/A,1,390000,2025-09-30,ISO 14001,Aktiv
+S030,West African Organic,Togo,Plateaux,2,Kakaobohnen (Bio),Mittel,Mittel,Mittel,Mittel,Mittel,Mittel,Mittel,Niedrig,Niedrig,Mittel,6,750000,2025-01-25,Fairtrade & Bio,Aktiv
